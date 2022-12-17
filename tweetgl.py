@@ -1,5 +1,5 @@
 import streamlit as st
-import pyopengl as gl
+import PyOpenGL as gl
 
 # Set up a Streamlit widget to display the tweet
 tweet_widget = st.text_input('Enter tweet text:')
